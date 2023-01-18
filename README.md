@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sakshi3010
+- 👋 Hi, I’m Sakshi
 - 👀 I’m interested in developing,testing and UI.
 - 🌱 I’m currently working as Java Backend Developer.
 - 📫 How to reach me: Sakshid3010@protonmail.com
