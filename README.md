@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sakshi3010
 - 👀 I’m interested in developing,testing and UI.
-- 🌱 I’m currently learning ethical hacking.
+- 🌱 I’m currently working as Java Backend Developer.
 - 📫 How to reach me: Sakshid3010@protonmail.com
 
 <!---
